@@ -5,8 +5,8 @@
 
 This is part of the Evennia unittest framework, for testing the
 stability and integrity of the codebase during updates. This module
-test the default command set. It is instantiated by the
-evennia/objects/tests.py module, which in turn is run by as part of the
+tests the default command set. It is instantiated by the
+evennia/objects/tests.py module, which in turn is run as part of the
 main test suite started with
  > python game/manage.py test.
 
